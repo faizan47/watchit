@@ -1,2 +1,2 @@
 # watchit
-Light weight node mon alternative
+Light weight nodemon alternative
